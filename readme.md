@@ -1,4 +1,5 @@
 # VadCLIP-multi
+Official PyTorch implementation of the manuscript "Multi-Scale Temporal Feature Fusion with Cross-Scale Alignment for Weakly Supervised Video Anomaly Detection", submitted to The NeuroComputing.
 
 ## Project Overview
 VadCLIP-multi is a multi-scale learning project based on the CLIP (Contrastive Language-Image Pre-training) model, focusing on video anomaly detection and cross-modal understanding tasks. The system implements multi-scale feature extraction and segmentation-based approaches for improved anomaly detection in videos.
@@ -33,6 +34,20 @@ src/
 Dataset-specific options available in ucf_option_seg.py and xd_option_seg.py
 Customizable hyperparameters for model training and evaluation
 
+## Installation
+### Clone the repository
+git clone https://github.com/your-repo/VadCLIP-multi.git
+cd VadCLIP-multi
+
+### Install required packages
+pip install -r requirements.txt
+
+## Datasets
+The project supports two benchmark datasets:
+
+UCF-Crime: Large-scale dataset for real-world anomaly detection in unconstrained environments
+XD-Violence: Extreme domain violence detection dataset
+
 ## Usage
 ### Training on UCF-Crime Dataset
 python ucf_train_seg.py --use-gcn False --use-scheme1 False
@@ -40,3 +55,5 @@ python ucf_train_seg.py --use-gcn False --use-scheme1 False
 ### Training on XD-Violence Dataset
 python xd_train_seg.py --use-gcn False --use-scheme1 False
 
+## Acknowledgments
+We thank the authors of the original VadCLIP model and the creators of the UCF-Crime and XD-Violence datasets for making their resources publicly available.
