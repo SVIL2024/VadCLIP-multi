@@ -1,0 +1,17 @@
+2026-03-29 08:48:17 - VadCLIP-Seg-UCF - INFO - Log file: logs/ucf_train_seg_20260329_084817.log
+2026-03-29 08:48:17 - VadCLIP-Seg-UCF - INFO - Loading datasets...
+2026-03-29 08:48:17 - VadCLIP-Seg-UCF - INFO - Normal samples: 8000
+2026-03-29 08:48:17 - VadCLIP-Seg-UCF - INFO - Anomaly samples: 8100
+2026-03-29 08:48:17 - VadCLIP-Seg-UCF - INFO - Test samples: 290
+2026-03-29 08:48:17 - VadCLIP-Seg-UCF - INFO - Creating multi-scale model...
+2026-03-29 08:48:20 - VadCLIP-Seg-UCF - INFO - ============================================================
+2026-03-29 08:48:20 - VadCLIP-Seg-UCF - INFO - VadCLIP-Seg Training Configuration (UCF-Crime)
+2026-03-29 08:48:20 - VadCLIP-Seg-UCF - INFO - ============================================================
+2026-03-29 08:48:20 - VadCLIP-Seg-UCF - INFO - Scales: [8, 16, 32]
+2026-03-29 08:48:20 - VadCLIP-Seg-UCF - INFO - Fusion Type: attention
+2026-03-29 08:48:20 - VadCLIP-Seg-UCF - INFO - Visual Length: 256
+2026-03-29 08:48:20 - VadCLIP-Seg-UCF - INFO - Batch Size: 2
+2026-03-29 08:48:20 - VadCLIP-Seg-UCF - INFO - Learning Rate: 1e-05
+2026-03-29 08:48:20 - VadCLIP-Seg-UCF - INFO - Max Epoch: 10
+2026-03-29 08:48:20 - VadCLIP-Seg-UCF - INFO - Use Baseline Mode: False
+2026-03-29 08:48:20 - VadCLIP-Seg-UCF - INFO - ============================================================

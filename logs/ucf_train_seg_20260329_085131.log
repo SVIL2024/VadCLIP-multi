@@ -1,0 +1,63 @@
+2026-03-29 08:51:31 - VadCLIP-Seg-UCF - INFO - Log file: logs/ucf_train_seg_20260329_085131.log
+2026-03-29 08:51:31 - VadCLIP-Seg-UCF - INFO - Loading datasets...
+2026-03-29 08:51:31 - VadCLIP-Seg-UCF - INFO - Normal samples: 8000
+2026-03-29 08:51:31 - VadCLIP-Seg-UCF - INFO - Anomaly samples: 8100
+2026-03-29 08:51:31 - VadCLIP-Seg-UCF - INFO - Test samples: 290
+2026-03-29 08:51:31 - VadCLIP-Seg-UCF - INFO - Creating multi-scale model...
+2026-03-29 08:51:34 - VadCLIP-Seg-UCF - INFO - ============================================================
+2026-03-29 08:51:34 - VadCLIP-Seg-UCF - INFO - VadCLIP-Seg Training Configuration (UCF-Crime)
+2026-03-29 08:51:34 - VadCLIP-Seg-UCF - INFO - ============================================================
+2026-03-29 08:51:34 - VadCLIP-Seg-UCF - INFO - Scales: [8, 16, 32]
+2026-03-29 08:51:34 - VadCLIP-Seg-UCF - INFO - Fusion Type: attention
+2026-03-29 08:51:34 - VadCLIP-Seg-UCF - INFO - Visual Length: 256
+2026-03-29 08:51:34 - VadCLIP-Seg-UCF - INFO - Batch Size: 2
+2026-03-29 08:51:34 - VadCLIP-Seg-UCF - INFO - Learning Rate: 1e-05
+2026-03-29 08:51:34 - VadCLIP-Seg-UCF - INFO - Max Epoch: 10
+2026-03-29 08:51:34 - VadCLIP-Seg-UCF - INFO - Use Baseline Mode: False
+2026-03-29 08:51:34 - VadCLIP-Seg-UCF - INFO - ============================================================
+2026-03-29 08:51:49 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [100] Loss1: 0.4693 | Loss2: 2.1573 | Loss3: 0.0936
+2026-03-29 08:52:01 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [200] Loss1: 0.4120 | Loss2: 1.9115 | Loss3: 0.0819
+2026-03-29 08:52:14 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [300] Loss1: 0.3933 | Loss2: 1.7891 | Loss3: 0.0692
+2026-03-29 08:52:26 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [400] Loss1: 0.3637 | Loss2: 1.6987 | Loss3: 0.0617
+2026-03-29 08:52:39 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [500] Loss1: 0.3303 | Loss2: 1.6260 | Loss3: 0.0568
+2026-03-29 08:52:52 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [600] Loss1: 0.3129 | Loss2: 1.5787 | Loss3: 0.0527
+2026-03-29 08:53:05 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [700] Loss1: 0.3129 | Loss2: 1.5447 | Loss3: 0.0493
+2026-03-29 08:53:17 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [800] Loss1: 0.2993 | Loss2: 1.5052 | Loss3: 0.0466
+2026-03-29 08:53:30 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [900] Loss1: 0.2941 | Loss2: 1.4724 | Loss3: 0.0447
+2026-03-29 08:53:43 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [1000] Loss1: 0.2868 | Loss2: 1.4448 | Loss3: 0.0430
+2026-03-29 08:53:56 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [1100] Loss1: 0.2817 | Loss2: 1.4226 | Loss3: 0.0412
+2026-03-29 08:54:10 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [1200] Loss1: 0.2737 | Loss2: 1.4030 | Loss3: 0.0402
+2026-03-29 08:54:23 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [1300] Loss1: 0.2653 | Loss2: 1.3777 | Loss3: 0.0388
+2026-03-29 08:54:36 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [1400] Loss1: 0.2561 | Loss2: 1.3533 | Loss3: 0.0377
+2026-03-29 08:54:50 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [1500] Loss1: 0.2574 | Loss2: 1.3404 | Loss3: 0.0368
+2026-03-29 08:55:03 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [1600] Loss1: 0.2532 | Loss2: 1.3241 | Loss3: 0.0357
+2026-03-29 08:55:16 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [1700] Loss1: 0.2485 | Loss2: 1.3036 | Loss3: 0.0349
+2026-03-29 08:55:30 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [1800] Loss1: 0.2434 | Loss2: 1.2878 | Loss3: 0.0341
+2026-03-29 08:55:45 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [1900] Loss1: 0.2377 | Loss2: 1.2744 | Loss3: 0.0332
+2026-03-29 08:56:00 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [2000] Loss1: 0.2323 | Loss2: 1.2618 | Loss3: 0.0324
+2026-03-29 08:56:16 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [2100] Loss1: 0.2266 | Loss2: 1.2473 | Loss3: 0.0317
+2026-03-29 08:56:30 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [2200] Loss1: 0.2219 | Loss2: 1.2313 | Loss3: 0.0310
+2026-03-29 08:56:44 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [2300] Loss1: 0.2185 | Loss2: 1.2153 | Loss3: 0.0303
+2026-03-29 08:56:57 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [2400] Loss1: 0.2143 | Loss2: 1.2018 | Loss3: 0.0297
+2026-03-29 08:57:11 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [2500] Loss1: 0.2114 | Loss2: 1.1883 | Loss3: 0.0292
+2026-03-29 08:57:25 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [2600] Loss1: 0.2076 | Loss2: 1.1764 | Loss3: 0.0286
+2026-03-29 08:57:38 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [2700] Loss1: 0.2265 | Loss2: 1.1785 | Loss3: 0.0282
+2026-03-29 08:57:52 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [2800] Loss1: 0.2360 | Loss2: 1.1745 | Loss3: 0.0279
+2026-03-29 08:58:05 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [2900] Loss1: 0.2370 | Loss2: 1.1691 | Loss3: 0.0275
+2026-03-29 08:58:19 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [3000] Loss1: 0.2366 | Loss2: 1.1630 | Loss3: 0.0271
+2026-03-29 08:58:33 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [3100] Loss1: 0.2342 | Loss2: 1.1514 | Loss3: 0.0267
+2026-03-29 08:58:47 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [3200] Loss1: 0.2317 | Loss2: 1.1444 | Loss3: 0.0263
+2026-03-29 08:59:00 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [3300] Loss1: 0.2291 | Loss2: 1.1338 | Loss3: 0.0259
+2026-03-29 08:59:14 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [3400] Loss1: 0.2262 | Loss2: 1.1251 | Loss3: 0.0255
+2026-03-29 08:59:27 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [3500] Loss1: 0.2234 | Loss2: 1.1168 | Loss3: 0.0250
+2026-03-29 08:59:41 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [3600] Loss1: 0.2198 | Loss2: 1.1082 | Loss3: 0.0246
+2026-03-29 08:59:55 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [3700] Loss1: 0.2165 | Loss2: 1.0982 | Loss3: 0.0243
+2026-03-29 09:00:08 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [3800] Loss1: 0.2131 | Loss2: 1.0895 | Loss3: 0.0241
+2026-03-29 09:00:22 - VadCLIP-Seg-UCF - INFO - Epoch [1/10] Step [3900] Loss1: 0.2108 | Loss2: 1.0818 | Loss3: 0.0238
+2026-03-29 09:00:36 - VadCLIP-Seg-UCF - INFO - ------------------------------------------------------------
+2026-03-29 09:00:36 - VadCLIP-Seg-UCF - INFO - Epoch 1 completed in 542.17s
+2026-03-29 09:01:23 - VadCLIP-Seg-UCF - INFO - [Multi-Scale] Test Results:
+2026-03-29 09:01:23 - VadCLIP-Seg-UCF - INFO -   AUC1: 0.8619 | AP1: 0.2741
+2026-03-29 09:01:23 - VadCLIP-Seg-UCF - INFO -   AUC2: 0.8517 | AP2: 0.2631
+2026-03-29 09:01:23 - VadCLIP-Seg-UCF - INFO -   Average mAP: 797.72%
+2026-03-29 09:01:23 - VadCLIP-Seg-UCF - INFO -   Test time: 14.61s
