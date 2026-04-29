@@ -11,6 +11,7 @@ VadCLIP-multi is a multi-scale learning project based on the CLIP (Contrastive L
 - Support for UCF-Crime and XD-Violence datasets
 
 ## Project Structure
+'''
 src/
 ├── clip/                 # CLIP model implementation
 │   ├── __init__.py
@@ -29,6 +30,7 @@ src/
 ├── ucf_*.py              # UCF-Crime dataset training/testing scripts
 ├── xd_*.py               # XD-Violence dataset training/testing scripts
 └── crop.py               # Image/video cropping utilities
+'''
 
 ### Configuration
 Dataset-specific options available in ucf_option_seg.py and xd_option_seg.py
